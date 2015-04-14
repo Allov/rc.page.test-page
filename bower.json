@@ -1,0 +1,21 @@
+{
+  "name": "rc.page.test-page",
+  "version": "0.1.0",
+  "homepage": "https://github.com/cbcrc/rc.page.test-page",
+  "authors": [
+    "Frédérik Charest & Maxime Séguin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "^3.2.0",
+    "requirejs": "^2.1.15",
+    "requirejs-text": "^2.0.13"
+  }
+}
